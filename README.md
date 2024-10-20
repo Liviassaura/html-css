@@ -5,3 +5,8 @@
 
 <a href="https://liviassaura.github.io/html-css/exercicios/ex001/index.html">Executar o Exercicio 001</a>
 
+footer a[href*="github"] {
+  display: none;
+}
+
+
