@@ -5,8 +5,4 @@
 
 <a href="https://liviassaura.github.io/html-css/exercicios/ex001/index.html">Executar o Exercicio 001</a>
 
-<footer>
-  <p>Copyright © 2024, Liviassaura.</p>
-</footer>
-
 
