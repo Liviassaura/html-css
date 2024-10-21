@@ -2,6 +2,4 @@
 
 Curso de HTML5 e CSS3 do CursoemVideo
 
-<a href="liviassaura.github.io/html-css/Exercicios/ex001/index.html">Executar o exercicio 001</a>
-
-
+<a href="https://github.com/Liviassaura/html-css/tree/master/Exercicios/ex001">Executar o exercicio 001</a>
