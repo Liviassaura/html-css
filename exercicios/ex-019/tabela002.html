@@ -18,7 +18,7 @@
             font-size: 1.5em;
             font-weight: bold;
             padding: 10px;
-            background-color: lightgray;
+            background-color: lightgrey;
 
         }
 
@@ -27,13 +27,18 @@
             padding: 10px;
         }
 
-        thead {
-            background-color: gray;
+        thead, tfoot {
+            background-color: rgba(0, 0, 0, 0.493);
+        }
+
+        tbody > tr:nth-child(odd) {
+            background-color: lightgray;
         }
 
         td.num {
             text-align: right;
         }
+
     </style>
 </head>
 <body>
@@ -43,7 +48,7 @@
        <thead>
         <tr>
             <th scope="col">Estado</th>
-            <th scope="col" style="width: 50px;">População</th>
+            <th scope="col" style="width:100px;">População</th>
         </tr>
        </thead> 
        <tbody>
